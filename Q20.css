@@ -1,0 +1,230 @@
+.outer{
+    background-color:rgb(109, 49, 49);
+    width: 100%;
+    height: 600px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+.inner{
+    background-color: rgb(212,222,259,234);
+    position:relative;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    height:500px;
+    margin-bottom: -20px;
+}
+
+.p1
+{
+    color: brown;
+    padding: 30px;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.p2{
+    background-color: beige;
+    color: black;
+    padding: 30px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p3{
+    background-color:beige;
+    color: black;
+    padding: 30px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.outer1{
+    background-color: rgb(142, 134, 68);
+    width:100%;
+    height:600px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    position: relative;
+}
+
+.inner1{
+    background-color: rgb(231, 231, 127);
+    position: relative;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    width: 80%;
+    height: 500px;
+    
+    
+}
+  
+
+
+.p4{
+    color: brown;
+    padding: 50px;
+    font-size: 60px;
+    margin-top: -160px;
+    margin-left: -100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p5{
+    
+    color: black;
+    align-items: center;
+    margin-top: -25px;
+    
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.outer2{
+    background-color: rgb(222, 138, 117);
+    width:100%;
+    height:600px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    position: relative;
+
+}
+.inner2{
+    background-color: rgb(227, 167, 150);
+    position: relative;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    width: 80%;
+    height: 500px;
+
+}
+.p6{
+    color: black;
+    padding: 50px;
+    margin-top: -80px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+}
+.p7{
+    color: black;
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -600px;
+    margin-top: -60px;
+    text-decoration: underline;
+}
+.p8{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -400px;
+    margin-top: -10px;
+
+}
+.p9{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -600px;
+    text-decoration: underline;
+}
+.p10
+{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -400px;
+    margin-top: -10px;
+}
+.outer3{
+    background-color: rgb(48, 86, 48);
+    width: 100%;
+    height: 600px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+
+.p11{
+    color: black;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    margin-top: -100px;
+    padding: 50px;
+    margin-left: -100px;
+   
+}
+.inner3{
+    background-color: rgb(93, 131, 81);
+    position: relative;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    width: 80%;
+    height: 500px;
+
+}
+.p12{
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -400px;
+    margin-top:-50px;
+    margin-bottom: 50px;
+     
+
+}
+.p13{
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -500px;
+    margin-top:-10px;
+    text-decoration-line: underline;
+   
+
+}
+.p14{
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -600px;
+    margin-top:-10px;
+    
+
+}
+.topnav{
+    background-color: black;
+    overflow: hidden;
+}
+.topnav a{
+    float: left;
+    color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+    font-size: 17px;
+    margin-left: 100px;
+}
+.topnav a :hover{
+background-color: beige;
+color: black;
+}
+.topnav a.active{
+    background-color: #612919;
+    color: azure;
+}
